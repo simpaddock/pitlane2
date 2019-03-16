@@ -1,0 +1,26 @@
+body {
+  background-image: url(assets/bg.png);
+  font-family: Bitsumishi; }
+
+.content {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 1em; }
+
+.page-logo {
+  width: 50%; }
+
+@font-face {
+  font-family: 'Bitsumishi';
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/BITSUMIS.TTF") format("truetype"); }
+
+.navigation-container {
+  padding-top: 1em; }
+
+a.nav-link {
+  color: black !important; }
+
+a.nav-link:hover {
+  border-bottom: 2px solid #E6561D; }

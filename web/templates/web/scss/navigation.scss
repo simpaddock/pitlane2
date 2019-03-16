@@ -1,0 +1,9 @@
+.navigation-container {
+  padding-top: 1em;
+}
+a.nav-link{
+  color: black !important;
+}
+a.nav-link:hover{
+  border-bottom: 2px solid $secondaryColor;
+}

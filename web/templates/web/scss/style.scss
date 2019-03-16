@@ -1,0 +1,16 @@
+
+body{
+  background-image: url(assets/bg.png);
+  font-family: Bitsumishi;
+}
+.content {
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 1em;
+}
+.page-logo {
+  width: 50%;
+}
+@import 'variables.scss';
+@import 'fonts.scss';
+@import 'navigation.scss';

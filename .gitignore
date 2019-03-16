@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+pitlane2/__pycache__
+web/teampltes/web/scss/node_modules/
